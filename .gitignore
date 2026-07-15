@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Não versionar dados clínicos
+data/*
+!data/README.md
+images/exemplos/*
+!images/exemplos/README.md
+results/*
+!results/.gitkeep
+models/*
+!models/README.md
+
+*.dcm
+*.dicom
