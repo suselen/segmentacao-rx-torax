@@ -18,3 +18,15 @@ models/*
 
 *.dcm
 *.dicom
+
+
+# Bases públicas e imagens médicas armazenadas localmente
+data/montgomery/
+data/shenzhen/
+data/chexpert/
+data/mimic-cxr-jpg/
+data/teste/
+
+# Arquivos DICOM
+*.dcm
+*.dicom
