@@ -1,0 +1,1 @@
+Pipeline acadêmico em Python/Colab para anonimização, realce, filtragem, segmentação anatômica e análise quantitativa de radiografias de tórax.
